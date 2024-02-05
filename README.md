@@ -1,2 +1,2 @@
-# 1-Css-Challange-Grid_layout
+# 1 Responsive Grid Layout
 Responsive Layout Using Grid
